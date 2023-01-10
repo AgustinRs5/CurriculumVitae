@@ -1,0 +1,83 @@
+h1{
+color: rgb(3, 24, 50);
+border: 4px solid rgb(3, 24, 50);
+width: 264px;
+position: relative;
+left: 102px;
+bottom: 16px;
+padding: 5px 5px 5px 5px; 
+background-color: white
+}
+
+section {
+    width: 490px; 
+    height: 800px;
+    background-color:rgb(0, 46, 88)
+}
+
+ul{
+color:white;
+font-weight: bold;
+}
+
+#perfil{
+    margin-left: 25px;
+    width: 490px;
+    color: white;
+    position: relative; 
+    background-color:rgb(3, 24, 50)
+    
+}
+
+#idiomas{
+    margin-left: 25px;
+    width: 490px;
+    color: white;
+    position: relative; 
+    top: 18px;
+    background-color:rgb(3, 24, 50)
+}
+
+#telefono{
+ font-weight: bold; 
+ position: relative;
+ top: 8px; 
+}
+
+#pais{
+    font-weight: bold; 
+    position: relative;
+    top: 16px; 
+}
+
+#italiano{
+    font-weight: bold; 
+    position: relative;
+    top: 16px; 
+}
+
+#ingles{
+    font-weight: bold; 
+    position: relative;
+    top: 24px; 
+}
+
+#espanol{
+    font-weight: bold; 
+    position: relative;
+    top: 8px; 
+   }
+
+#cumpleanos{
+    font-weight: bold; 
+    position: relative;
+    top: 24px; 
+   }
+
+img{
+    border-radius:150px;
+    position: relative;
+    left: 114px;
+    bottom: 12px;
+    border: solid rgb(3, 24, 50) 4px;
+}
