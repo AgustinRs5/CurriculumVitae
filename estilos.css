@@ -39,6 +39,13 @@ font-weight: bold;
     top: 32px;
     background-color:rgb(3, 24, 50)
 }
+#compe{
+    width: 500px;
+    color: white;
+    position: relative; 
+    top: 32px;
+    background-color:rgb(3, 24, 50)
+}
 
 #telefono{
  font-weight: bold; 
